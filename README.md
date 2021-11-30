@@ -1,4 +1,4 @@
-# Analysing Creadit Card Customers
+# Analysing Credit Card Customers
 
 This project visualizes data from the following dataset: 
 https://www.kaggle.com/sakshigoyal7/credit-card-customers 
