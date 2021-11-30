@@ -1,10 +1,9 @@
-# Analysing Credit Card Customers
+# Credit Card Customers
+A manager at a bank is disturbed with more and more customers leaving their credit card services. They would really appreciate if one could predict for them who is going to get churned so they can proactively go to the customer to provide them better services and turn customers' decisions in the opposite direction.
 
-This project visualizes data from the following dataset: 
-https://www.kaggle.com/sakshigoyal7/credit-card-customers 
+This dataset consists of 10,000 customers mentioning their age, salary, marital status, credit card limit, credit card category, etc. There are 20 features.
 
-The dataset includes the demographic and financial data of bank customers that have a credit card. In addition, it shows whether the customers have left their credit card services (attritted) or not. 
+Data Source:
+https://www.kaggle.com/sakshigoyal7/credit-card-customers
 
-The aim of the data visualizations is to determine what type of customer are more likely to leave their credit card service. 
-Later on, a machine learning model can be trained to directly predict this. 
-
+In this project, we will analyze the dataset and try to see if we can gleam any patterns or characteritics of churning customers. Then, we are going to build a simple machine learning model to predict whether a customer will leave the credit card service or not.
